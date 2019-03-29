@@ -22,10 +22,7 @@ public class MainActivity extends AppCompatActivity {
         btnFirst = findViewById(R.id.btnFirst);
         btnSecond = findViewById(R.id.btnSecond);
         tvResult = findViewById(R.id.tvResult);
-
-
-
-
+        
 
         btnFirst.setOnClickListener(new View.OnClickListener() {
             @Override
